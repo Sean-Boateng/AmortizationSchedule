@@ -48,7 +48,7 @@ def calculator():
     
     spaceHolder.append([""])
     ws4.append([f'Monthly Pay = ${monthlyPay:,.2f}'])
-    # ws4.cell(row = 2, column = 6).value = monthlyPay
+   
     
     
 
